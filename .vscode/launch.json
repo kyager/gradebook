@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: GradeBook",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\src\\GradeBook\\GradeBook.csproj",
+            "launchConfigurationId": "TargetFramework=;GradeBook",
+        }
+    ]
+}
